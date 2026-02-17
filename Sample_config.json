@@ -1,0 +1,17 @@
+{
+    "_comment": "Job application config. Remove _comment if your loader rejects unknown keys. cover_letter_template supports {job_title} and {company_name}. board: greenhouse | lever | ashby. Use job_urls for manual URLs (any mix of boards), or leave [] to search via job_search_query.",
+    "first_name": " ",
+    "last_name": " ",
+    "email": " ",
+    "phone": "",
+    "linkedin_url": "https://www.linkedin.com/in/",
+    "resume_path": "E:\\Resumes",
+    "job_search_query": "cloud engineer",
+    "locations": [
+        "Remote",
+        "USA"
+    ],
+    "job_urls": [],
+    "board": "greenhouse",
+    "cover_letter_template": "I am excited to apply for the {job_title} role at {company_name}. I believe my experience aligns well with this opportunity and I would welcome the chance to discuss further."
+}
